@@ -1,8 +1,9 @@
 let pilot = {
-    0: "Dante",
-    1: "Evan",
-    2: "Richard",
-    3: "Tevin"
+    0: "Evan",
+    1: "Dante",
+    2: "Raciel",
+    3: "Richard",
+    4: "Tevin"
 };
 
 function choosePilot() {
